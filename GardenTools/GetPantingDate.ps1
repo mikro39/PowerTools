@@ -1,5 +1,7 @@
  # This is a quick calculator i made to know when i needed to prepare seed starts indoors
  # It calculates the date you need to start the seeds according to the Frost Date
+ # The Date is specific to Magna UT, but could be modified to fit the date of last frost for your area
+ # Average Last frost in Magna is 4/22 - you can find this online googling you city and "last frost"
 
  ### Intro, Declares Surface Variables ###
 Write-Host "Welcome to the planting Date Calculator"
